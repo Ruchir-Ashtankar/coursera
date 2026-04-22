@@ -1,0 +1,45 @@
+/* style.css */
+body {
+  font-family: Arial, sans-serif;
+  background: #f4f4f9;
+  margin: 0;
+  padding: 20px;
+}
+
+header {
+  text-align: center;
+  background: #333;
+  color: white;
+  padding: 15px;
+}
+
+section {
+   width: 60%;          
+  margin: 20px auto;  
+  padding: 15px;
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1)
+}
+
+h2 {
+  color: #444;
+}
+
+ul {
+  list-style-type: square;
+  padding-left: 20px;
+}
+
+button {
+  background: #333;
+  color: white;
+  padding: 10px 15px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #555;
+}
